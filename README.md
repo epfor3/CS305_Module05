@@ -5,5 +5,8 @@ This repository is created for the Module 5 assignment
 The purpose of this project is to 
 see how people work in teams.
 
+# This line is from Nathan Chan
+The purpose of this project is to 
+see how people work in teams using GitHub.
 # License
 The license for this repository is Apache 2.0
